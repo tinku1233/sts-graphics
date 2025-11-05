@@ -1,0 +1,5 @@
+{
+  "name": "Copy of STS Graphics Booking App",
+  "description": "A web application for booking photography and videography packages for events, inspired by the STS Graphics app. Users can select packages, add-ons, specify event details, and get a total cost estimate.",
+  "requestFramePermissions": []
+}
